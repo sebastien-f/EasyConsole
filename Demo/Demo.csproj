@@ -59,7 +59,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\EasyConsole\EasyConsole.csproj">
-      <Project>{da79ba94-fad6-462f-89c7-774fe822d594}</Project>
+      <Project>{DA79BA94-FAD6-462F-89C7-774FE822D594}</Project>
       <Name>EasyConsole</Name>
     </ProjectReference>
   </ItemGroup>
